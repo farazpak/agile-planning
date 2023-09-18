@@ -1,1 +1,2 @@
-# agile-planning
+# Agile-planning
+This is agile planning lab
